@@ -1,0 +1,25 @@
+{
+  "name": "jsdevnodescraperproject6",
+  "version": "1.0.0",
+  "description": "project 6",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv-writer": "^1.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghughes13/TreeHouse-JSDev-Project-6.git"
+  },
+  "author": "Garrett Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghughes13/TreeHouse-JSDev-Project-6/issues"
+  },
+  "homepage": "https://github.com/ghughes13/TreeHouse-JSDev-Project-6#readme"
+}

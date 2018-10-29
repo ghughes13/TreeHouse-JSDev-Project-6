@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Team Tree House - Full Stack JavaScript Project 6
 Web-Scraper
 
